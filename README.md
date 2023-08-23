@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tristan<br>I'm interested in firmware and embedded software<br>I'm currently studying at the University of Iowa<br>I'm proficient in Java, C++, Python, and AVR Assembly<br>
+Hi, I'm Tristan<br>I'm interested in firmware and embedded software<br>I'm currently studying at the University of Iowa<br>I'm proficient in C#, Java, C/C++, Python, and AVR Assembly<br>
 
 
 ## 🌐 Socials:
